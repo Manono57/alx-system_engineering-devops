@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# This script displays 'To infinity and beyond' indefinitely
-# Requirement: In between each iteration of the loop, add a sleep 2
+# This script displays 'To infinity and beyond' indefinitely.
+# Requirement: Add a sleep 2 in between each iteration of the loop.
 
 while true
 do
